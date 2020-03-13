@@ -1,0 +1,7 @@
+service:
+
+- type: web
+  env:  golang
+  envVars:
+  - key: APPLE
+    value: "tree"
